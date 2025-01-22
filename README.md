@@ -1,2 +1,2 @@
 # geospatial_analysis
-Repository containing useful geocoding functions
+Repository containing various geospatial functions
